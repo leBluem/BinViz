@@ -13,5 +13,5 @@ Binäre Visualisierung oder Pixel zählen
  - https://github.com/leBluem/BinViz/releases
 
 ## examples
-https://imgur.com/yDnToAH
-[Imgur](https://imgur.com/yDnToAH)
+ - https://imgur.com/yDnToAH
+ - https://imgur.com/ARgxkii
