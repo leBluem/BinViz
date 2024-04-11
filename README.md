@@ -1,5 +1,7 @@
 # BinViz
-Binäre Visualisierung oder Pixel zählen, Programm geschrieben in der Programmierprache Delphi (Object-'Pascal')
+Binäre Visualisierung oder Pixel zählen
+ - für die Caspar David Friedrich Ausstellung am 13. April 2024 ;)
+ - Programm geschrieben in der Programmierprache Delphi (Object-'Pascal')
 
 ## inspired by 
  - https://www.youtube.com/watch?v=C8--cXwuuFQ&list=PLUyyOw61zxiJXMihb4PjYbGHEgdGxMuY3
