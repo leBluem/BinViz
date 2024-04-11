@@ -1,5 +1,5 @@
 # BinViz
-Binäre Visualisierung oder Pixel zählen
+Binäre Visualisierung oder Pixel zählen, Programm geschrieben in der Programmierprache Delphi (Object-'Pascal')
 
 ## inspired by 
  - https://www.youtube.com/watch?v=C8--cXwuuFQ&list=PLUyyOw61zxiJXMihb4PjYbGHEgdGxMuY3
