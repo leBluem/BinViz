@@ -16,7 +16,7 @@ Binäre Visualisierung oder Pixel zählen
  - so siehts aus:
 ![Imgur Image](https://i.imgur.com/b4eKwe8.png)
 
-## Beispiele (bearbeitet)
+## Die drei Bilder in der Ausstellung 
  - https://imgur.com/yDnToAH
 ![Imgur Image](https://i.imgur.com/yDnToAH.png)
  - https://imgur.com/ARgxkii
