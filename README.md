@@ -4,11 +4,12 @@ Binäre Visualisierung oder Pixel zählen
  - Programm geschrieben in der Programmierprache Delphi (Object-'Pascal')
 
 ## inspired by 
- - CDF and Milkman
- - https://www.youtube.com/watch?v=C8--cXwuuFQ&list=PLUyyOw61zxiJXMihb4PjYbGHEgdGxMuY3
- - https://github.com/kentavv/binary_viewer/wiki
- - https://github.com/codilime/veles
- - https://events.ccc.de/congress/2013/wiki/Session:Binary_Analysis
+ - CDF and Milkman :)
+ - ytuber "Tsoding daily" hat das auch gemacht: https://www.youtube.com/watch?v=AUWxl0WdiNI (bei ~20 min is ne genaue Erklärung)
+ - yt-playlist zum Thema: https://www.youtube.com/watch?v=C8--cXwuuFQ&list=PLUyyOw61zxiJXMihb4PjYbGHEgdGxMuY3
+ - Vortrag bei nem alten CC-congress: https://events.ccc.de/congress/2013/wiki/Session:Binary_Analysis
+ - Beispiel1: https://github.com/kentavv/binary_viewer/wiki
+ - Beispiel2: https://github.com/codilime/veles
 
 ## download
  - https://github.com/leBluem/BinViz/releases
