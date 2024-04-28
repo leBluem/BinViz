@@ -1,6 +1,6 @@
 # BinViz
 Binäre Visualisierung oder Pixel zählen
- - für die Caspar David Friedrich Ausstellung am 13. April 2024 ;)
+ - für die Caspar David Friedrich Ausstellung im Plattenladen "GrooveAmt Records" ;) https://grooveamt-records.com/ , Eröffnung am 13. April 2024
  - Programm geschrieben in Delphi ('Object'-Pascal)
 
 ## inspired by 
