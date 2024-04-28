@@ -13,7 +13,7 @@ Binäre Visualisierung oder Pixel zählen
 
 ## download
  - https://github.com/leBluem/BinViz/releases
- - so siehts aus:
+ - so siehts aus, wenn es rum-zickt, schliessen und neu starten:
 ![Imgur Image](https://i.imgur.com/b4eKwe8.png)
 
 ## Die drei Bilder in der Ausstellung 
